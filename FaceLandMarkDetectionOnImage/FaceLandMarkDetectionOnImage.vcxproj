@@ -23,7 +23,7 @@
     <ProjectGuid>{9298F77C-732B-482F-99A4-B5452CF82D4C}</ProjectGuid>
     <RootNamespace>FaceLandMarkDetectionOnImage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>FaceDetectionOnImage</ProjectName>
+    <ProjectName>FaceLandMarkDetectionOnImage</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
